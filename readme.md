@@ -27,6 +27,7 @@ function test (arr) {
 console.log("Hello World");
 }
 ```
+#Using 4 spaces:
     function min (arr) {
        int min = arr[0];
        for(var i=0; i<arr.length; i++)

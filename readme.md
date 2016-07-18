@@ -22,6 +22,16 @@ Feel free to access my [my portfolio] (https://codepen.io/virakkong/pen/zBwkov).
 - 3.5 grade average.
 
 That is what Javascript look like 
-```function test (arr) {
+```
+function test (arr) {
 console.log("Hello World");
-}```
+}
+```
+    function min (arr) {
+       int min = arr[0];
+       for(var i=0; i<arr.length; i++)
+        {
+         #code only no H1
+        }
+      Console.log("Test");
+    }

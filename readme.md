@@ -22,9 +22,6 @@ Feel free to access my [my portfolio] (https://codepen.io/virakkong/pen/zBwkov).
 - 3.5 grade average.
 
 That is what Javascript look like 
-`
-function test (arr) {
+`function test (arr) {
 console.log("Hello World");
-}
-
-`
+}`

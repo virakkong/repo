@@ -1,20 +1,31 @@
-Hello! My name is Virak Kong
+Hello My name is Virak Kong
 =======================================
 
 ###My Backgorund:
 
-> My background is very long. I would like to introduce myself briefly. I currently graduated from an engineering program at a local university of the state of Washington. I currently postpone my work in a local company to pursue web development. I still keep my part-time job. My goal of education at Bloc is to gain industrial knowledge  in web development from software engineering mentor. 
+> My background is very long. I would like to introduce myself briefly. I currently graduated from an engineering program at a local university of the state of Washington. I currently postpone my work in a local company to pursue web development. My goal of education at Bloc is to gain industrial knowledge  in web development from software engineering mentor. 
 
-> The reasons that I chose Bloc over other bootcamps is that Bloc bassically provide one-on-one mentorship (apparenticeship). This allow me to ask questions and get feedback and critics my works. Second, the carreer support from day 0. 
+> The reasons that I chose Bloc over other bootcamps is that Bloc bassically provide one-on-one mentorship (apparenticeship). This allows me to ask questions and get feedback and critic on my works. Second, the carreer support starts from day 0. 
 
-> I hope that  I could get a very fruitable experiences with Bloc and its community. I believe that with my well-educated mentor, I can be a good software engineer. I cannot wait to see you, Michael!
+###The followings are my goals at Bloc:
+
+1. Gain expeiennces with Industrial mentorship
+2. Gain resourceful knowledge in Bloc community
+3. Gain knowledge in writing codes professionally ( The right directions), not from traditional classroom (peer review, discussion boards, etc.)
+4. Gain expriences in job searches and build professonal portfolio and projects (apps).
+5. Get hired as a software engineer (**Amazon**, Google, Microsoft).
 
 
 
-### Welcome to My Sites
+I hope that  I could get a very fruitable experiences with Bloc and its community. I believe that with help from my well-educated mentor, I can be a good software engineer. Hello Michael! I cannot wait to see you. 
 
-Feel free to access [my portfolio] (https://codepen.io/virakkong/pen/zBwkov).
-Feel free to access [my linkedin] (https://www.linkedin.com/in/kong-virak-bb76301a).
+
+The following is my sample of markdown code.
+
+
+### Welcome to My Site
+
+Feel free to access my [my portfolio] (https://codepen.io/virakkong/pen/zBwkov).
 
 > ## Stay Calm, It Will Pass.
 >

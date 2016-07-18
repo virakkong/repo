@@ -1,12 +1,20 @@
-Software
+Hello My name is Virak Kong
 =======================================
 
-Apllication Sotware
+My Backgorund:
+
+> My background is very long. I would like to introduce myself briefly. I currently graduated from an engineering program at a local university of the state of Washington. I currently postpone my work in a local company to pursue web development. I still keep my part-time job. My goal of education at Bloc is to gain industrial knowledge  in web development from software engineering mentor. 
+
+> The reasons that I chose Bloc over other bootcamps is that Bloc bassically provide one-on-one mentorship (apparenticeship). This allow me to ask questions and get feedback and critics my works. Second, the carreer support from day 0. 
+
+> I hope that  I could get a very fruitable experiences with Bloc and its community. I believe that with my well-educated mentor, I can be a good software engineer. 
 
 
-### Welcome to My Site
 
-Feel free to access my [my portfolio] (https://codepen.io/virakkong/pen/zBwkov).
+### Welcome to My Sites
+
+Feel free to access [my portfolio] (https://codepen.io/virakkong/pen/zBwkov).
+Feel free to access [my linkedin] (https://www.linkedin.com/in/kong-virak-bb76301a).
 
 > ## Stay Calm, It Will Pass.
 >

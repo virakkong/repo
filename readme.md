@@ -21,4 +21,4 @@ Feel free to access my [my portfolio] (https://codepen.io/virakkong/pen/zBwkov).
 + Completed Research for Biology Department
 - 3.5 grade average.
 
-That is what Ruby Code look like 'puts 'Hello World''
+That is what Ruby Code look like `puts 'Hello World'`

@@ -38,7 +38,7 @@ Feel free to access my [my portfolio] (https://codepen.io/virakkong/pen/zBwkov).
 
 * Graduated from University of Washington
 + Completed Research for Biology Department
-- 3.5 grade average.
+
 
 That is what Javascript look like 
 ```

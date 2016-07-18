@@ -1,7 +1,7 @@
 Hello My name is Virak Kong
 =======================================
 
-My Backgorund:
+###My Backgorund:
 
 > My background is very long. I would like to introduce myself briefly. I currently graduated from an engineering program at a local university of the state of Washington. I currently postpone my work in a local company to pursue web development. I still keep my part-time job. My goal of education at Bloc is to gain industrial knowledge  in web development from software engineering mentor. 
 

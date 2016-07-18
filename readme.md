@@ -1,4 +1,4 @@
-Hello My name is Virak Kong
+Hello! My name is Virak Kong
 =======================================
 
 ###My Backgorund:
@@ -7,7 +7,7 @@ Hello My name is Virak Kong
 
 > The reasons that I chose Bloc over other bootcamps is that Bloc bassically provide one-on-one mentorship (apparenticeship). This allow me to ask questions and get feedback and critics my works. Second, the carreer support from day 0. 
 
-> I hope that  I could get a very fruitable experiences with Bloc and its community. I believe that with my well-educated mentor, I can be a good software engineer. 
+> I hope that  I could get a very fruitable experiences with Bloc and its community. I believe that with my well-educated mentor, I can be a good software engineer. I cannot wait to see you, Michael!
 
 
 
